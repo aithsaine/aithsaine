@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**aithsaine/aithsaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## BIO
 
-Here are some ideas to get you started:
+My name is ISMAIL AIT HSAINE am 24years, am Fullstack developer. Skilled in Database Administration, Microsoft Office, Customer Service,  Website Development. Strong information technology professional with a outstanding focus in Computer Science & Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strongest Skillests:
+
+- 💬 PHP
+- 💬 Laravel
+- 💬 Nextjs
+- 💬 ReactJs 
+- 💬 MySQL 
+- 💬 Mongodb
+- 💬 Javascript
+- 💬 Typescript
+- 💬 Python
+- 📫 Project Management: 
+
