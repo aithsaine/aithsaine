@@ -17,3 +17,6 @@ Strongest Skillests:
 - 💬 Python
 - 📫 Project Management: 
 
+[![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=aithsaine&show_icons=true&theme=radical)](https://github.com/aithsaine)
+[![Ismail's GitHub stats with Rank](https://github-readme-stats.vercel.app/api?username=aithsaine&show_icons=true&hide_rank=false&rank_icon=percentile&theme=radical)](https://github.com/dom557)
+
